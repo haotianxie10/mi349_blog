@@ -1,0 +1,44 @@
+html{
+    background: grey;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:  120px;
+    margin-top: 20px;
+    padding: 60px;
+    color: #242424;
+    border-top: 10px solid #242424;
+    background: lightblue;
+    
+}
+
+h1{
+    font-size: 3em;
+    margin: 0;
+}
+
+p{
+    line-height: 1.4em;
+}
+
+#blog {
+    border-top: 1px dotted #ccc;
+    border-left: 10px solid #000;
+    border-right: 10px solid #000;
+    padding: 10px;
+    background: lightyellow;
+}
+
+.blog-post{
+    border-bottom: 1px dotted #ccc;  
+
+}
+
+#signup{
+    margin-top: 40px;
+}
+
+img{
+    width: 800px;
+    height: 500px;
+}
