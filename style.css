@@ -38,3 +38,18 @@ p{
     margin-top: 40px;
 }
 
+#comment{
+    margin-top: 10px;
+}
+
+#contact{
+    background: mediumaquamarine;
+    border: 10px solid #000;
+    padding: 10px;
+}
+
+#about{
+    background: mediumaquamarine;
+    border: 10px solid #000;
+    padding: 10px;
+}
