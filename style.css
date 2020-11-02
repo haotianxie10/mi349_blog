@@ -73,10 +73,10 @@ p{
     margin: 10px;
 }
 
-#rmd{
+
+.flex{
     display: flex;
 }
-
 .aone{
     background: #999;
     padding: 20px;
@@ -97,3 +97,4 @@ p{
     margin: 20px;
     flex: 1.5;
 }
+
