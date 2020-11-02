@@ -74,9 +74,14 @@ p{
 }
 
 
-.flex{
+#rmd{
     display: flex;
 }
+
+.rmdh2{
+    display: none;
+}
+
 .aone{
     background: #999;
     padding: 20px;
