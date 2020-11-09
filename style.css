@@ -8,7 +8,7 @@ body{
     padding: 60px;
     color: #242424;
     border-top: 10px solid #242424;
-    background: lightblue;
+    background: lightskyblue;
     
 }
 
@@ -54,11 +54,6 @@ p{
     padding: 40px;
 }
 
-.mini{
-    height: 400px;
-    width: 700px;
-}
-
 #st{
     position: -webkit-sticky;
     position: sticky;
@@ -68,9 +63,11 @@ p{
     padding: 20px;
 }
 
-.miniimg{
+#m2{
     float: right;
     margin: 10px;
+    width: 700px;
+    height: 400px;
 }
 
 
@@ -103,3 +100,23 @@ p{
     flex: 1.5;
 }
 
+.card{
+    background-color: #121212;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+@media (max-width: 400px){
+    #m1{
+        width: 400px;
+        height: 200px;
+    }
+    #m2{
+        width: 400px;
+        height: 200px;
+    }
+
+    #rmd{
+        display: inline;
+    }
+}
